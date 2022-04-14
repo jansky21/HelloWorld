@@ -1,0 +1,12 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+        System.out.println("John Poul R. Barangan");
+        System.out.println("BSIT 1A");
+
+    }
+}
